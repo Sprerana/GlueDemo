@@ -12,7 +12,7 @@ Resources:
         "--TempDir": "s3://mycodepipeline13/temp/"
       GlueVersion: "2.0"
       WorkerType: G.1X
-      NumberOfWorkers: 2
+      NumberOfWorkers: 3
 
 
   GlueServiceRole:
